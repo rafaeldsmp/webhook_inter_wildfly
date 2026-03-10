@@ -19,6 +19,13 @@
       <artifactId>spring-webmvc</artifactId>
       <version>5.3.10</version>
     </dependency>
+    <!-- Source: https://mvnrepository.com/artifact/jakarta.xml.ws/jakarta.xml.ws-api -->
+    <dependency>
+      <groupId>jakarta.xml.ws</groupId>
+      <artifactId>jakarta.xml.ws-api</artifactId>
+      <version>4.0.3</version>
+      <scope>compile</scope>
+    </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
